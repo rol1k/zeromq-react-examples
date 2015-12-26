@@ -1,0 +1,10 @@
+{
+	"name": "rol1k/zeromq-reactphp-examples",
+	"description": "ZeroMQ + ReactPHP examples",
+	"keywords": ["zeromq", "zmq", "react"],
+	"homepage": "https://github.com/rol1k/zeromq-react-examples",
+	"license": "MIT",
+	"require": {
+		"react/zmq": "*"
+	}
+}
