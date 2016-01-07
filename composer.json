@@ -6,5 +6,10 @@
 	"license": "MIT",
 	"require": {
 		"react/zmq": "*"
+	},
+	"autoload": {
+		"psr-4": {
+			"ZeroReactExamples\\Utilits\\": "src/"
+		}
 	}
 }
