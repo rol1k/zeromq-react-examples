@@ -247,7 +247,6 @@ echo "Test succesful!", PHP_EOL;
 ```
 
 *Результат*
-
 ![Exclusive Pair результат](http://i.imgur.com/9hoHwry.png)
 
 **TODO**
