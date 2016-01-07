@@ -18,6 +18,7 @@ composer require rol1k/zeromq-react-examples
 ## Пример 1. Request/Reply
 
 *Схема*
+
 ![Request/Reply схема](https://github.com/imatix/zguide/raw/master/images/fig2.png)
 
 *client.php*
@@ -67,11 +68,13 @@ $loop->run();
 ```
 
 *Результат*
+
 ![Request/Reply результат](http://i.imgur.com/tQjQLUm.png)
 
 ## Пример 2. Publish/Subscribe
 
 *Схема*
+
 ![Publish/Subscribe](https://github.com/imatix/zguide/raw/master/images/fig4.png)
 
 *publisher.php*
@@ -138,11 +141,13 @@ $loop->run();
 ```
 
 *Результат*
+
 ![Publish/Subscribe результат](http://i.imgur.com/Prqnl8C.jpg)
 
 ##Пример 3. Pipeline
 
 *Схема*
+
 ![Pipeline схема](https://github.com/imatix/zguide/raw/master/images/fig5.png)
 
 *ventilator.php*
@@ -204,11 +209,13 @@ $loop->run();
 ```
 
 *Результат*
+
 ![Pipeline результат](http://i.imgur.com/lcg9xOY.png)
 
 ##Пример 4. Exclusive Pair
 
 *Схема*
+
 ![Exclusive Pair схема](https://github.com/imatix/zguide/raw/master/images/fig21.png)
 
 *step-one.php*
@@ -247,6 +254,7 @@ echo "Test succesful!", PHP_EOL;
 ```
 
 *Результат*
+
 ![Exclusive Pair результат](http://i.imgur.com/9hoHwry.png)
 
 **TODO**
