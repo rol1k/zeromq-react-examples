@@ -8,8 +8,8 @@
 		"react/zmq": "*"
 	},
 	"autoload": {
-		"psr-4": {
-			"ZeroReactExamples\\Utilits\\": "src/"
+		"psr-0": {
+			"ZeroReactExamples": "src"
 		}
 	}
 }
